@@ -1,7 +1,7 @@
 ## Assert Labs
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Assert-Labs/.github/main/images/assert.svg" width="400" alt="Assert Labs Logo" />
+<img src="https://raw.githubusercontent.com/Assert-Labs/.github/main/images/assert-wordmark-indented.png" width="600" alt="Assert Labs Wordmark" />
 </div>
 
 <h1 align="center">Assert Labs</h1>
