@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/Assert-Labs/.github/main/images/assert-wordmark-indented.png" width="600" alt="Assert Labs Wordmark" />
+<img src="https://raw.githubusercontent.com/Assert-Labs/.github/main/images/assert-wordmark-indented.png" width="800" alt="Assert Labs Wordmark" />
 </div>
 
 ### About Us
